@@ -1,4 +1,4 @@
-# 🧠 Multi-Agent AI Projects with LLM Fine-Tuning & LangGraph Workflows
+# 🧠 AI Projects with LLM Fine-Tuning & LangGraph Workflows
 
 This repository contains two experimental AI projects exploring different applications of Large Language Models (LLMs) and agent frameworks:
 
